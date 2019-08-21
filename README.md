@@ -18,7 +18,9 @@ Or install it yourself as:
 
     $ gem install petrovic_view_tool
 
-## Usage
+```ruby
+MyViewTool::Rendered.copyright('Vladan Petrovic', "All rights reserved") 
+```
 
 TODO: Write usage instructions here
 
