@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various views actions for my application}
   spec.description   = %q{Provides generated HTML data for ruby apps}
-  spec.homepage      = "https://github.com/Vlada992/petrovic_view_tool"
+  spec.homepage      = "https://devcamp.com"
   spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
